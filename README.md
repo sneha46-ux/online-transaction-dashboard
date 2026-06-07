@@ -48,7 +48,7 @@ Visualizations
 * Device Preference Analysis 
 * Average Transaction Amount by Day 
 Insights
-* Users aged 26–35 contribute the highest transaction volume. 
+* Users aged 26â€“35 contribute the highest transaction volume. 
 * Android is the dominant platform for UPI transactions. 
 * Transaction activity varies throughout the day with identifiable peak hours. 
 * Average transaction amount is highest on weekends. 
@@ -56,7 +56,7 @@ Insights
 
 Business Insights
 User Behavior
-* Young adults (18–35 years) form the majority of UPI users. 
+* Young adults (18â€“35 years) form the majority of UPI users. 
 * Mobile devices, particularly Android, dominate digital payment adoption. 
 Transaction Performance
 * High success rate indicates strong reliability of UPI services. 
@@ -68,25 +68,23 @@ Regional Analysis
 * Certain states contribute a larger share of UPI transactions, indicating stronger digital payment adoption. 
 
 Features
-? Interactive filters and slicers
-? Dynamic KPI cards
-? Drill-down transaction analysis
-? Banking performance comparison
-? State-wise transaction analysis
-? User demographic insights
-? Time-based trend analysis
+* Interactive filters and slicers
+* Dynamic KPI cards
+* rill-down transaction analysis
+* Banking performance comparison
+* State-wise transaction analysis
+* User demographic insights
+* Time-based trend analysis
 
 Project Structure
 Online_Transaction_Dashboard/
-???  Online Transaction Dashboard.Report/
-???  Online Transaction Dashboard.SemanticModel/
-???  .gitignore
-???  README.md                 
-???  Online Transaction Dashboard.pbip
-Dashboard Preview
-UPI Growth in India
-  
-UPI User Behaviour & Usage Pattern	
+  -Online Transaction Dashboard.Report/
+  -Online Transaction Dashboard.SemanticModel/
+  -.gitignore
+  -README.md                 
+  -Online Transaction Dashboard.pbip
+  -UPI Growth in India.png
+  -UPI User Behaviour & Usage Pattern.png	
                   
 
 Skills Demonstrated
@@ -111,5 +109,4 @@ Author
 Sneha Yadav
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
-# online-transaction-dashboard
-# online-transaction-dashboard
+
